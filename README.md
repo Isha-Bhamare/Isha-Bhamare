@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 📫 How to reach me **ishabhamare24@gmail.com**
+- 📫 How to reach me **ishabhamare22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
