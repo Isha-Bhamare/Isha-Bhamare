@@ -89,6 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Isha-Bhamare/Isha-Bhamare/output/snake.svg" alt="Snake animation" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 ###
